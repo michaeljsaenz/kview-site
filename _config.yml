@@ -70,7 +70,6 @@ exclude:
   - LICENCE
 
 # -----------
-# CloudCannon
 
 _select_data:
   social_icons:

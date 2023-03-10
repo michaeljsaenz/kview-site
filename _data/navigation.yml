@@ -1,24 +1,8 @@
-- name: Pricing
-  link: /pricing/
+- name: Download
+  link: https://github.com/michaeljsaenz/kview/releases/latest
   new_window: false
-  highlight: false
-- name: Blog
-  link: /blog/
+  highlight: true
+- name: Changelog
+  link: https://github.com/michaeljsaenz/kview/blob/main/CHANGELOG.md
   new_window: false
-  highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
   highlight: true
