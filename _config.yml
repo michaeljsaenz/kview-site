@@ -3,7 +3,7 @@
 
 title: KView
 url: kview.app
-tagline: KView your Kubernetes cluster.
+tagline: KView Kubernetes
 description: KView is a standalone desktop application to interact with your Kubernetes cluster.
 logo: /images/icon.png
 baseurl:
