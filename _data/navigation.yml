@@ -1,8 +1,8 @@
 - name: Download
   link: https://github.com/michaeljsaenz/kview/releases/latest
-  new_window: false
+  new_window: true
   highlight: true
 - name: Changelog
   link: https://github.com/michaeljsaenz/kview/blob/main/CHANGELOG.md
-  new_window: false
+  new_window: true
   highlight: true

@@ -1,10 +1,12 @@
 - links:
   - name: DOWNLOAD
     link: https://github.com/michaeljsaenz/kview/releases/latest
+    new_window: true
     social_icon: Github
 - links:
   - name: CHANGELOG
     link: https://github.com/michaeljsaenz/kview/blob/main/CHANGELOG.md
+    new_window: true
     social_icon: Github
 - links:
   - name: README
