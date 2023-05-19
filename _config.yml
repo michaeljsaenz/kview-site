@@ -2,7 +2,10 @@
 # Site
 
 title: KView
-url: "https://kview.app"
+url: kview.app
+tagline: KView your Kubernetes cluster.
+description: KView is a standalone desktop application to interact with your Kubernetes cluster.
+logo: /images/icon.png
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
